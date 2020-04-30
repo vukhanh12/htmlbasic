@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: rgb(151, 3, 236);
+    font-size: 25;
+    border-style: solid;
+}
+h2{
+    text-align: center;
+    color: red;
+    font-size: 20;
+}
+.img1{
+    border-radius: 50px 50px 50px 50px;
+    border: 10px solid rgb(151, 3, 236);
+}
+.img2{
+    border-radius: 100px 100px 100px 100px;
+    border: 5px solid red;
+}
